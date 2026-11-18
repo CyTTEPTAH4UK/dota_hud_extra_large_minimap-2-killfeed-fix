@@ -1,7 +1,7 @@
 # Extra Large Minimap Fix
 
 Fixes the Dota 2 killfeed/combat events HUD when using the extra large minimap.
-Console command to get extra large minimap: dota_hud_extra_large_minimap 2
+Console command to get extra large minimap: dota_hud_extra_large_minimap 2.
 It replaces `panorama/styles/hud/dota_hud_combat_events.vcss_c` inside
 `game/dota/pak01_dir.vpk` using [VPKEdit](https://github.com/craftablescience/VPKEdit).
 
